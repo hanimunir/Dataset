@@ -1,0 +1,459 @@
+# This data is used by Talking Diary application for tetsing
+# Ist column show Text, second columns indicate Category
+# This Dataset is copyright. Please email at aummehanimunir@gmail.com and cite this work for use.
+
+Yesterday it was the last major event of the summer, event
+This article recounted the events of the past year, event
+I had no memory of the events that happened last year, event
+The car accident was caused by an unusual sequence of events, event
+I like to arrive at social events early, event
+Its the only event on the golf tour that I haven’t yet won, event
+In April we have a lot of school events, event
+The review article covers all the events at the fair, event
+In the event of rain the game will not be held, event
+On the whole the event was successful, event
+It is important to attend the event on this weekend, event
+Set the event on Thursday, event
+I postponed the event before Exams, event
+I won the event, event
+In April we have a lot of school events, event
+The event made Ali famous, event
+I have to attend an event tomorrow, event
+My friend invited me on his wedding, event
+There is an event in our university, event
+There is an event near me in Lahore tomorrow, event
+The newspaper always informs us about the new events in our country, event
+I think I have to organize this event for my friend, event
+Remind me of my friend important event tomorrow at 11:00 p.m., event
+The event was held in University Park, event
+The Election was the main event in 2018, event
+I have attended many events this month, event
+Tom is on the committee in charge of the events, event
+Yesterdays event affected Ahmeds future, event
+An unforgettable event occurred, event
+That same event happened 15 years ago, event
+The event made him famous, event
+I won the last event, event
+Some events seem connected but really arent, event
+They also do special events on holidays such as New Years Evening, event
+Reservations are recommended for Rooftop events, event
+Additionally the restaurant often features live music and special events, event
+Metro Restaurant likes to do big events but will only serve food from a smaller catering menu, event
+Many companies and people host their events from birthdays anniversaries, event
+Special events live music and displays are routinely scheduled at this County restaurant, event
+The lounge decorated with a fireplace typically is used for events, event
+Tomorrow is a birthday party at cousins house, event
+Exams start next week, event
+Football Season starts from August, event
+In April we have a lot of University events, event
+Holidays start after exams,event
+Next weekend there is a football match, event
+Fifa World Cup is coming this summer, event
+There is a workshop about Android Development on Tuesday, event
+I have to attend my friends wedding, event
+This weekend I 'll hang out with my friends, event
+Ive got ten events lined up for me this week, event
+I have to attend a wedding this weekend, event
+My University is hosting a dinner party for the newcomers on this Saturday, event
+I dont want to go to his sons birthday party this weekend it would ruin my plans, event
+My parents left the country last month to attend the new years celebration in Italy, event
+Almost all of my family went out and voted on elections day, event
+The mall near my house had a grand concert last night and it was a lot of fun, event
+It is always nice to meet new people and friends whenever our office has its annual dinner party every December, event
+My summer vacations are ending in September, event
+I have to go back to my parents house to attend their wedding anniversary in May, event
+I am going to attend the event this weekend, event
+I am arranging an event, event
+The event will start at the mentioned time, event
+I am not attending the event, event
+The event has been postponed, event
+This is going to be a national event, event
+I Am going to a party tomorrow, event
+Today is a school fun day, event
+We are organizing a party tomorrow, event
+We will play in a school tournament tomorrow, event
+We have to practice for tomorrows event, event
+There are 5 teams in a sports tournament, event
+Kips is holding a football tournament, event
+My university is organizing a football tournament, event
+I am having a party today, event
+Are you coming in tomorrows carnival festival, event
+Ill be too busy to come to the meeting, Meetings
+The time appointed for the meeting was 8 sharps, Meetings
+The sports meeting was held in the stadium, Meetings
+The chairman spoke for half an hour at the meeting, Meetings
+The PM presided over a meeting of his inner Cabinet, Meetings
+Ali is absent from the meeting, Meetings
+The meeting today is very important, Meetings
+Set a meeting at 9 PM., Meetings
+I have a meeting out of town, Meetings
+Tomorrow is my Meeting at 11:00 p.m., Meetings
+I have a meeting with HOD tomorrow, Meetings
+Remind me of my meeting at Monday morning, Meetings
+Organize a meeting on 27th February with my Supervisor, Meetings
+Mr. Abubakar and Mr. Waqar are attending a meeting in conference hall, Meetings
+The purpose of todays meeting is how to teach programming in a good way, Meetings
+Tomorrow meeting is about of last month’s performance, Meetings
+Tomorrow meeting is very important with Project Manager, Meetings
+HOD call the meeting in 1 hour, Meetings
+Ive been looking forward to meeting Imran, Meetings
+Umar doesnt have any idea how important this meeting is, Meetings
+If its at all possible Id like you to take part in the next meeting, Meetings
+He is pushed into a meeting of the legislature, Meetings
+Why would Ali be meeting with me?, Meetings
+I have a meeting out of town, Meetings
+He is really interested in meeting me, Meetings
+We are attending a general meeting, Meetings
+What is the meeting schedule for today?, Meetings
+We are going to have another department meeting on Friday, Meetings
+The Chairman spoke for half an hour at the meeting, Meetings
+My job is to attend the meeting and report back to the board of directors, Meetings
+We have a meeting tomorrow morning, Meetings
+We set up a meeting for next week, Meetings
+We went to a meeting this afternoon, Meetings
+The meeting finished late, Meetings
+I have a first meeting tomorrow, Meetings
+What is the meeting schedule for today?, Meetings
+We held an official meeting to discuss employee layoffs, Meetings
+We had a meeting among the family members, Meetings
+Faculty meeting on Tuesday, Meetings
+Project meeting tomorrow, Meetings
+Weve got a meeting at two, Meetings
+I have a meeting out of town, Meetings
+Were going to have another departmental meeting on Friday, Meetings
+We have a meeting tomorrow morning, Meetings
+We set up a meeting for next week, Meetings
+There is an official meeting of BODs, Meetings
+HOD holds a meeting of all faculty members, Meetings
+Captain holds a meeting to address the soldiers before the war, Meetings
+I met her at my office after we were done with our weekly meeting, Meetings
+Im meeting up with my friends after lunch, Meetings
+My sons Parent Teacher Meeting is on this Friday, Meetings
+Im busy with meetings all day at the office I don't have any extra time, Meetings
+Ive had two meetings with her so far, Meetings
+I met her at the mall the last I saw her, Meetings
+He always looked forward to meetings like these, Meetings
+Ive never had such a long meeting at my office before, Meetings
+Him meeting her in the park five times in a row was not by chance, Meetings
+My schedule is full of meetings this month Im not free even on the weekends, Meetings
+We will discuss it at the next meeting, Meetings
+Raise these points at the meeting, Meetings
+A meeting has been called, Meetings
+He is having a meeting tomorrow, Meetings
+They are discussing about country's budget, Meetings
+They are holding a teacher discussion day today, Meetings
+He will discuss about my house tomorrow, Meetings
+He should discuss about our company, Meetings
+We are making a discussion day for our company, Meetings
+He is organizing a meeting tomorrow, Meetings
+We will talk about our company tomorrow, Meetings
+He is asking whether we should establish this company or not, Meetings
+Our company is holding a meeting for our future, Meetings
+Every day there is much work to be done, Work
+It will be so much fun to work on it with Ali and Ahmed, Work
+All this work is for nothing, Work
+Umair knew how to work with his hands, Work
+All work and no play make Jack a dull boy, Work
+This is clearly the work of a superior artist, Work
+I have to wake up early to go to work, Work
+She is working at hospital to pay for her education, Work
+My father is a working man, Work
+I have a lot of work to do in University, Work
+Ali was not late from work, Work
+Abubakar is working hard today, Work
+I couldnt go to work because I was sick, Work
+I gained a clear picture of how it works, Work
+I had difficulty working out the problem, Work
+I have no time to help him with the work, Work
+I must have my work finished by tomorrow, Work
+I spent all night working on this report, Work
+I worked in Rio de Janeiro for two years, Work
+I worked more than eight hours yesterday, Work
+I am satisfied with my work, Work
+She has a lot of work to do, Work
+Hard work is the key to success, Work
+I have a lot of work to do, Work
+I spent all night working on this report, Work
+My sister work in a bank, Work
+I must have my work finished by tomorrow, Work
+The people I work with are all very kind, Work
+Usama didnt show up for work this morning, Work
+I had difficulty working out the problem, Work
+A friend of mine works as a volunteer, Work
+Every day there is much work to be done, Work
+It will be so much fun to work on it with Ali and Farhan, Work
+You just have to work at it a little at a time, Work
+My daily routine is 9 to 5, Work
+I m very busy lately, Work
+I m busy tomorrow, Work
+I have to finish this all work before Monday, Work
+I have a lot of work this weekend, Work
+I ll sleep late today due to the project, Work
+I have to design this diagram before the deadline, Work
+We have to meet the deadlines of the project, Work
+Im too busy at work this week, Work
+She had to work hard to be where she was today, Work
+I had to work day and night to make my ends meet, Work
+She was exhausted from all the work she had been doing today, Work
+Both my parents work at the factory, Work
+Work had always been my fathers priority, Work
+Ive been working on a university project for the past six months, Work
+His work spoke for itself, Work
+Working three shifts a day took a toll on his body, Work
+All the people working in his office were doing overtime, Work
+I will do this work, Work
+I still have a substantial amount of work to do, Work
+He is going to his office today, Work
+We will do a business in future, Work
+Please make me assistant in this company, Work
+He is finding his job, Work
+He is trying to do his own work, Work 
+Please try to balance your work in this timing, Work 
+He is working hard for his job, Work
+He is unable to do some work, Work
+His financial status is not enough for this job, Work
+I am considering business a better workplace than job, Work
+Late-night shopping is becoming very popular, Shopping
+Mother went shopping meanwhile I cleaned the house, Shopping
+The new shopping Centre was constructed at a cost of 1.1 million, Shopping
+I enjoy shopping for clothes and shoes, Shopping
+Shopping in the January sales can be maddening, Shopping
+The new shopping center is close to the railway station, Shopping
+We dont have much time we better go shopping, Shopping
+Before the guests arrived shed do some shopping on her own, Shopping
+The shopping center has a fascination for him, Shopping
+I couldnt go shopping yesterday so Ill have to go today, Shopping
+Set a shopping plan, Shopping
+Set a shopping event with friends, Shopping
+Shopping event should be in budget with friends, Shopping
+Remember to buy a USB drive tomorrow, Shopping
+Buy a shampoo from daraz, Shopping
+We all sisters have a plan of shopping at 5 oclock, Shopping
+Set location to shopping mall at 6 oclock, Shopping
+Remind me to buy a corn flakes when I visit grocery store, Shopping
+Remind me that I have to go to shopping tomorrow, Shopping
+The shopping trip were exiting, Shopping
+Add keyboard to my shopping list, Shopping
+For shopping you need a lot of budget, Shopping
+We do not have much time for shopping, Shopping
+My mother did a lot of my shopping, Shopping
+I dill a little shopping and come back to home, Shopping
+I am taking children to shopping, Shopping
+She has gone shopping, Shopping
+Im going shopping tomorrow, Shopping
+She intended to go shopping, Shopping
+I go shopping every other day, Shopping
+Wont you go shopping with me?, Shopping
+She went shopping with him last Monday, Shopping
+I dont like being asked to go shopping, Shopping
+I have to go shopping. Ill be back in an hour, Shopping
+The girl insisted on going shopping with her mother, Shopping
+Tom almost always uses a credit card when he goes shopping, Shopping
+Ill go shopping tomorrow, Shopping
+I do my weekly shopping on Saturday, Shopping
+We went shoes shopping, Shopping
+I enjoy shopping for clothes and jewelry, Shopping
+I could not go shopping yesterday because of headache, Shopping
+Lets bunk off this Saturday and go for shopping, Shopping
+She takes pleasure in window shopping, Shopping
+I am going shopping tomorrow, Shopping
+I almost always use a credit card when I go for shopping, Shopping
+That was quite a shopping experience, Shopping
+He forgot his shopping list, Shopping
+My friends insisted on going shopping with them, Shopping
+Some people dont like to go for shopping, Shopping
+Fahad went window-shopping, Shopping
+They are out shopping, Shopping
+My brother hates shopping, Shopping
+Im going shopping Saturday he told him, Shopping
+The shopping trip was exciting because it was so close to new year, but otherwise uneventful, Shopping
+I said Very well we will go shopping this afternoon, Shopping
+We don't have much time we better go shopping for baby clothes, Shopping
+That way you dont have to keep fitting me into your schedule and Ill be able to get some shopping done, Shopping
+Maybe next time Ali went shopping and Farhan wasnt at home, Shopping
+These are some of the best areas for bike riding and shopping, Shopping
+Before the guests arrived shed do some shopping on her own, Shopping
+Were going up town to do some shopping, Shopping
+I have to buy a suit for a wedding next week, Shopping
+There is 50 % off on shoes, Shopping
+There is a summer sale on pants, Shopping
+I have to buy a football shirt to participate in the tournament, Shopping
+I have to buy warm clothes for the North, Shopping
+There is a sale on Shalwar Kameez on J., Shopping
+My suite is very old I have to buy one, Shopping
+Shopping is the best therapy for me, Shopping
+I went out shopping for groceries last week, Shopping
+She bought a lot of clothes at the sale yesterday, Shopping
+Shopping for shoes at that shop had always been fun for her, Shopping
+She liked to shop on her own, Shopping
+He bought a new coat from that shop which was at the corner of the street, Shopping
+I have to get matching earrings for my suit, Shopping
+His mother gave him a whole list of groceries to get from the store, Shopping
+Shopping for kitchen supplies was always a hassle for him, Shopping
+She bought winter clothes for her family, Shopping
+He is buying some things for his house, Shopping
+I am going to shopping today, Shopping
+I will buy something today, Shopping
+He is trying to get shirts from market, Shopping
+I will go to shopping mall tomorrow, Shopping
+I am trying to go to shop today, Shopping
+He is coming with me to buy shirts, Shopping
+He will buy vegetables today, Shopping
+He is buying fruits right now, Shopping
+I am looking for some pants here, Shopping
+I parked a car at friends’ house, Friends
+I take all my other friends to see this king-tree, Friends
+Ali dont have any friends, Friends
+They became great friends over the years, Friends
+I will try to make friends instead of enemies, Friends
+His parents and friends begged him not to go, Friends
+I made friends with many people on the train, Friends
+I have many friends in Karachi, Friends
+All of my dear little friends came to see me, Friends
+Remind me next party with friends, Friends
+Create event with friends, Friends
+Lets make a plan for meet up, Friends
+I brought a friend, Friends
+Waqar is my Friend, Friends
+Remind me of the party at my friend house tomorrow, Friends
+I have to pick the friend from bus station, Friends
+I should deserve good friends, Friends
+Add Nauman to my friend list, Friends
+I have 200 friends on my Facebook account, Friends
+I hope I will make friends in my office soon, Friends
+My father is just like my friend, Friends
+Finding a good friend is very difficult in this society, Friends
+Sleep was not her friend during the day, Friends
+Annie was my friend not Howie, Friends
+This time my little friend will assist me, Friends
+Life is nothing without friends, Friends
+I ate a pizza with a friend, Friends
+I lent my friend some money, Friends
+I have a friend living in a Lahore, Friends
+I got a message from my old friend, Friends
+Ali is my best friend, Friends
+I can talk anything with my best friend, Friends
+Shahzad is my friend, Friends
+I have a friend living in England, Friends
+I will try to make friends instead of enemies, Friends
+I often go to my friends house, Friends
+I talk to my friends daily, Friends
+I like to make new friends, Friends
+Farhan has a friend who lives in Karachi, Friends
+I still have a few friends in Karachi, Friends
+Tomorrow will be get together of old friends, Friends
+My classmates are very nice to me, Friends
+I have to give a loan to my friend, Friends
+He is my best friend, Friends
+All of us have a party at a friends house, Friends
+My friends always help me with tough times, Friends
+He is my friend from 2nd
+ grade, Friends
+He is my childhood friend, Friends
+I dont have a lot of friends, Friends
+My college friends got me the best gift, Friends
+I was hanging out with my friends when I got the call, Friends
+My friends and I are going to the beach tomorrow morning, Friends
+He only had two close friends, the rest were acquaintances, Friends
+Even his friends at the office didnt know his full name, Friends
+His friends visited him in hospital when he broke his leg, Friends
+One of my friends has family back in India, Friends
+His friends came to pick him up from the bus stop., Friends
+She borrowed her best friend's dress to wear at the party, Friends
+Going out with friends, Friends
+Meeting my friends today, Friends
+Making plans with friends, Friends
+He is coming with us, Friends
+Ali is going to play with me, Friends
+Try to be closer so that we can be friends, Friends 
+He is trying to find some friends, Friends
+We dont have anyone when we start our school, Friends
+He will play football with me, Friends
+I am playing cricket with Umar, Friends
+He will not play with me, Friends
+He is my bestie because we have same taste, Friends
+The organization has a large annual budget, Budget
+There are few surprises in this years budget, Budget
+The work was finished on time and within budget, Budget
+Only a small portion of the budget is spent on books, Budget
+We decorated the house on a tight budget, Budget
+Smart people budget their income, Budget
+A new car will not be part of our budget this year, Budget
+The Government has approved the budget, Budget
+We have a very tight budget, Budget
+The trip to Spain will probably bust our budget, Budget
+The budget must be balanced, Budget
+Ive been going over the budget, Budget
+We are traveling on a tight budget, Budget
+Our budget is very limited, Budget
+Remind me to stop shopping while budget is over, Budget
+Give me heads up while budget is up-to end, Budget
+Our Finance minister give the budget in parliament, Budget
+Hustlers have to control the budget, Budget
+Everyone has very small amount of budget in his student life, Budget
+The organization has a large annual budget, Budget
+Do not forget to give me the budget of text books, Budget
+There are few surprises in this year budgets, Budget
+The defense budget is still growing, Budget
+Pakistan defense budget is greater than the India defense budget, Budget
+We build the house with a very small amount of budget, Budget
+The budget must be balanced, Budget
+Ive been going over the budget, Budget
+Tom has trouble budgeting his time, Budget 
+We are traveling on a tight budget, Budget
+Tom is paying attention to his budget, Budget
+The budget was narrowly approved by Congress, Budget
+They intended to increase the military budget, Budget
+Well have to double our budget for next year, Budget
+The lecture on the budget was very interesting, Budget
+I estimate the production costs to be 36 percent of the budget, Budget
+The organization has a large annual budget, Budget
+The work was finished on time and within budget, Budget
+My mother controls the family budget, Budget
+Our budget is very limited, Budget
+The committee approved the budget, Budget
+The budget of the film was very limited, Budget
+The budget must be balanced, Budget
+We are travelling on a tight budget, Budget
+Salaries take up a considerable portion of our total budget, Budget
+They are having problems with their budget, Budget
+Our family lives on a fixed budget, Budget
+The business has a large budget, Budget
+Were planning the annual budget, Budget
+Most of our personal budget goes toward rent, Budget
+Taxes pay for the government budget, Budget
+They have a large budget for the project, Budget
+We are going to present our budget ideas, Budget
+They need to balance the budget, Budget
+This months expenses are out of the budget, Budget
+Budget is low this month, Budget
+Income is less than expenses, Budget
+We should spend according to the budget, Budget
+This months bills are of the budget, Budget
+This years annual budget has increased taxes on mobile phones, Budget
+My monthly budget is too tight for me to get this new laptop, Budget
+I always try to stay within my budget when getting new clothes, Budget
+My parents knew what our budget was so they had to spend wisely, Budget
+People are really angry at the government for this years budget, Budget
+The budget planning committee has agreed to the terms of the government to impose new taxes, Budget
+Our annual budget for this year is a sign of how unstable our economy is, Budget
+I have to attend the weekly budget meeting at our office, Budget
+Getting that expensive car messed up his budget for April and May, Budget
+I havent made a budget yet for my monthly spending, Budget
+We need a budget, Budget
+Our spending is more than our budget, Budget
+We cant make a budget with this amount of money, Budget
+Need more funds for the budget, Budget
+They made a successful budget this year, Budget
+The budget doesnt cover the expenses, Budget
+The budget is going to fail, Budget
+This price is out my hand, Budget
+He will get paid tomorrow, Budget
+He is getting his salary tomorrow, Budget
+Our countrys budget will be prepared tomorrow, Budget
+He is low on money today, Budget
+He was out of money when he looked into some pants, Budget
+He is waiting for his income, Budget
+This companys budget is low right now, Budget
+I am preparing your income right now, Budget
+Please give me some more money to buy some shoes, Budget
